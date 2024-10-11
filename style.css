@@ -14,9 +14,19 @@ header{
 }
 section{
 
-    background: rgb(184,156,213);
+    background: rgb(105, 3, 3);
     padding-bottom: 80px;
     padding-top: 80px;
+}
+
+.chamada{
+
+  background: rgb(105, 3, 3);
+  padding-bottom: 80px;
+  padding-top: 80px;
+  display: flex;
+  justify-content: center;
+  
 }
 
 .chamada-texto{
